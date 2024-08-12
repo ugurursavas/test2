@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "spatial data wesscience333"
+  author: "ersan kunerı kuneri and Elisabetta Pietrostefani"
+  date: today
+
+  page-footer:
+    left: |
+      Web Mapping and Geovisualisation by Gabriele Filomena and Elisabetta Pietrostefani.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  search: true
+  site-url:  https://gdsl-ul.github.io/wma
+  repo-url: https://github.com/GDSL-UL/wma
+  repo-actions: [edit]
+  sidebar:
+    style: docked
+    background: light
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - general/overview.qmd
+    - labs/w01_intro.ipynb
+    - labs/panel_w_lags.ipynb
+    - labs/dani_style_informal.ipynb
+    - labs/chen_ntl_spatial_lags.ipynb 
+    - labs/final_informal.ipynb
+
+
+
+	
+    
+    
+bibliography: references.bib
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+
+

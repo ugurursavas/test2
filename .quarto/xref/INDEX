@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "f2660d38"
+  },
+  "general/overview.qmd": {
+    "overview.html": "897d6db9"
+  },
+  "labs/w01_intro.ipynb": {
+    "w01_intro.html": "fbbd2a7d"
+  },
+  "labs/w02_maps.ipynb": {
+    "w02_maps.html": "ad42cabf"
+  },
+  "labs/panel_w_lags.ipynb": {
+    "panel_w_lags.html": "0ec9608f"
+  },
+  "labs/gini_map_2019.ipynb": {
+    "gini_map_2019.html": "3a2f36e3"
+  },
+  "labs/chen_ntl_spatial_lags.ipynb": {
+    "chen_ntl_spatial_lags.html": "3d2a4994"
+  },
+  "labs/dani_style_informal.ipynb": {
+    "dani_style_informal.html": "2b87ff1a"
+  },
+  "labs/final_informal.ipynb": {
+    "final_informal.html": "e9a53b18"
+  }
+}
